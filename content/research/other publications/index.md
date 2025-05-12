@@ -21,7 +21,10 @@ tags:
 
 featured: false
 
-url: "https://kleinmanenergy.upenn.edu/commentary/blog/insights-from-the-the-political-economy-of-climate-change-and-the-environment-2024-mini-conference/"
+url: ""
+url_pdf: ""
+url_source: "https://kleinmanenergy.upenn.edu/commentary/blog/insights-from-the-the-political-economy-of-climate-change-and-the-environment-2024-mini-conference/"
+
 
 url_pdf: ""
 url_code: ""
