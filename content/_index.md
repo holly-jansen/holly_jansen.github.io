@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static/uploads/jansen_cv.pdf
+        url: static/jansen_cv.pdf
     design:
       css_class: dark
       background:
@@ -30,17 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - research
-        exclude_featured: false
-    design:
-      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
