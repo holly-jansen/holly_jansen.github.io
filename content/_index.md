@@ -25,36 +25,30 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: collection
     id: research
     content:
-      title: Published Papers
-      filters:
-        folders:
-          - research
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - research
-        exclude_featured: true
-    design:
+    title: Published Papers
+    filters:
+      folders: ["research"]
+      tag: published
+      design:
       view: citation
 
   - block: collection
     content:
-      title: Other Publications
-      filters:
-        folders:
-          - research
-        exclude_featured: false
+    title: Working Papers
+    filters:
+      folders: ["research"]
+      tag: working
+
+
+  - block: collection
+    content:
+    title: Other Publications
+    filters:
+      folders: ["research"]
+      tag: other
     design:
       view: citation
 
