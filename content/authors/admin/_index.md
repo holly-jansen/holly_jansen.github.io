@@ -33,7 +33,7 @@ profiles:
     url: linkedin.com/in/holly–jansen
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=BxvSREgAAAAJ&hl=en
- 0-- - icon: academicons/orcid
+  - icon: academicons/orcid
     url: https://orcid.org/0009-0004-1148-7691
 
 education:
