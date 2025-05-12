@@ -30,17 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - research
-        exclude_featured: false
-    design:
-      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
