@@ -25,12 +25,13 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: collection
     id: research
     title: "Published Papers"
     text: ""
     filters:
-      folders: ["research"]
+      folders: research
       tag: published
       design:
       view: citation
@@ -40,7 +41,7 @@ sections:
     title: "Working Papers"
     text: ""
     filters:
-      folders: ["research"]
+      folders: research
       tag: working
 
 
@@ -49,7 +50,7 @@ sections:
     title: "Other Publications"
     text: ""
     filters:
-      folders: ["research"]
+      folders: research
       tag: other
     design:
       view: citation
