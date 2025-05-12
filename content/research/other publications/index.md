@@ -13,6 +13,7 @@ publication: "Kleinman Center Blog"
 publication_short: "Kleinman Center"
 
 tags:
+  - other
   - climate politics
   - gender and leadership
   - political communication
