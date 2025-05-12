@@ -24,15 +24,9 @@ tags:
 
 featured: true
 
+url: ""
 url_pdf: ""
-url_code: ""
-url_dataset: ""
-url_project: ""
-url_poster: ""
-url_slides: ""
-url_video: ""
-url_source: ""
-url: "https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-31.xml?tab_body=abstract-copy1"
+url_source: "https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-31.xml?tab_body=abstract-copy1"
 
 image:
   caption: ""
