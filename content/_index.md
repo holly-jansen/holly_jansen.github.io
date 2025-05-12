@@ -33,13 +33,13 @@ sections:
       text: |-
         ### Published Papers
 
-        **The effects of gender stereotypes on citizens’ perceptions of corruption**  
+        **TThe effects of gender stereotypes on citizens’ perceptions of corruption: evidence from a conjoint survey experiment in Malaysia**  
         _Handbook on Gender and Corruption in Democracies (2024)_  
         [Read it here](https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-31.xml?tab_body=abstract-copy1)  
         <details>
         <summary><strong>View Abstract</strong></summary>
         <p>
-        Do gender stereotypes influence citizens’ perceptions of government corruption? Gender stereotypes of female politicians generally cast an image of higher ethical behavior compared to male counterparts. Using a conjoint experiment in Malaysia (N = 2000), I find that men are perceived as significantly more likely to engage in corruption than women, particularly by male respondents.
+        Do gender stereotypes influence citizens’ perceptions of government corruption? Gender stereotypes of female politicians generally cast an image of higher ethical behavior when compared to their male counterparts. While recent research has established a causal relationship between women’s involvement in politics and reduced concerns about political corruption, the results are limited exclusively to a western sample—where there are more female politicians and generally more gender equity. As such, we cannot ascertain (1) whether the purported effects of gender stereotypes are more pronounced because non-western women are seen as even more ethical, honest, and trustworthy; and if so, (2) whether this difference is driven more by men or women—or both. To examine this, I employed a conjoint survey experiment in Malaysia—home to one of the largest government corruption scandals globally to date (N = 2000). The results suggest men are perceived to be more likely to engage in corruption than women at a higher rate than what the existing literature suggests—and that much of this finding is driven by male respondents.
         </p>
         </details>
 
@@ -50,7 +50,7 @@ sections:
         <details>
         <summary><strong>View Abstract</strong></summary>
         <p>
-        Do natural disasters influence electoral outcomes, and does this effect vary by candidate gender? I argue that natural disasters intensify gendered voting biases. Using panel data from 1,632 municipalities and typhoon exposure data, I find disasters reduce win rates for female challengers and erode vote shares for female incumbents under repeated shocks.
+        Do natural disasters influence electoral outcomes, and does this effect vary by candidate gender? While retrospective voting theory suggests that voters can rationally assess leader performance during crises, it often overlooks how candidate identity may shape evaluations in ways that depart from competence-based logics under conditions of threat. I argue that natural disasters intensify the role of gender in electoral decision-making, activating latent biases that disadvantage female candidates. Using panel data from 1,632 Philippine municipalities (2001–2010), I analyze mayoral elections merged with a geospatial typhoon exposure index to examine how disaster severity affects three electoral outcomes: candidate entry, candidate electoral success, and incumbent vote share. I find no evidence that disasters increase the supply of female candidates. However, typhoon exposure significantly reduces win rates for female challengers and erodes vote shares for female incumbents under repeated shocks. These findings suggest that climate crises amplify the political salience of gender, distorting voter evaluations and reinforcing patterns of under-representation of women in political office.
         </p>
         </details>
 
@@ -59,17 +59,12 @@ sections:
         **Breaking barriers or reinforcing bias? Climate crises and the gender divide in political leadership**  
         _Kleinman Center Blog (2024)_  
         [Read it here](https://kleinmanenergy.upenn.edu/commentary/blog/insights-from-the-the-political-economy-of-climate-change-and-the-environment-2024-mini-conference/)
-        <details>
-        <summary><strong>View Abstract</strong></summary>
-        <p>
-        This commentary explores whether climate-induced crises open leadership opportunities for women or reinforce masculine-coded leadership norms. It argues that disaster politics can reproduce the very inequalities they seem to disrupt.
-        </p>
-        </details>
+
 
   - block: markdown
     id: teaching
     content:
-      title: "My Approach to Teaching"
+      title: "Teaching Statement"
       text: |-
         My teaching philosophy is grounded in adaptability, intentional design, and care. I view each classroom as a dynamic space shaped by the diverse experiences, identities, and commitments students bring with them—including those navigating higher education as first-generation college students, working professionals, or members of historically excluded communities.
 
