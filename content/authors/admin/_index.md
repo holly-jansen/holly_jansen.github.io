@@ -40,7 +40,7 @@ education:
   - area: M.A. Political Science
     institution: University of California, San Diego
   - area: B.A. Government
-    institution: University of Texas at Austin
+    institution: University of Texas at Austin  
 
 ---
 

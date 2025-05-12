@@ -1,20 +1,16 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: static/uploads/jansen_cv.pdf
@@ -23,7 +19,6 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -31,10 +26,43 @@ sections:
           position: center
           parallax: false
 
+  - block: collection
+    id: research
+    content:
+      title: Published Papers
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
+  - block: collection
+    content:
+      title: Other Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
   - block: markdown
     content:
       title: "My Approach to Teaching"
       text: |-
+
         My teaching philosophy is grounded in adaptability, intentional design, and care. I view each classroom as a dynamic space shaped by the diverse experiences, identities, and commitments students bring with them—including those navigating higher education as first-generation college students, working professionals, or members of historically excluded communities.
 
         I design my courses using a backward planning framework, centering clarity and accessibility from the outset. I prioritize well-structured materials, transparent learning outcomes, and assessments that offer flexibility and choice. Whether through asynchronous modules or “choose-your-own-adventure” assignments, my goal is to support different modes of engagement while maintaining academic rigor.
@@ -42,27 +70,22 @@ sections:
         I believe that fostering student agency is essential not only for learning but also for integrity. In an era where artificial intelligence and generative tools are reshaping how students interact with knowledge, I encourage critical reflection and collaborative inquiry over surveillance. When students feel trusted and supported, they respond with curiosity and accountability.
 
   - block: markdown
+    id: teaching
     content:
-      title: "Teaching Experience"
+      title: Teaching Experience
       text: |-
-        ### Section Leader
-        - **Bending/Curve: Climate Change**  
-          Summer 2024
+        #### Section Leader
+        - **Bending/Curve: Climate Change** — Summer 2024
 
-        ### Teaching Assistant
-        - **Politics of Multiculturalism**  
-          Spring 2024
-        - **Comparative Politics: Race & Ethnicity in Africa**  
-          Winter 2023, 2024
-        - **Corruption in Developing Countries**  
-          Spring 2023
-        - **Japanese Politics**  
-          Fall 2023
-        - **International Organizations**  
-          Fall 2022
+        #### Teaching Assistant
+        - **Politics of Multiculturalism** — Spring 2024  
+        - **Comparative Politics: Race & Ethnicity in Africa** — Winter 2023, 2024  
+        - **Corruption in Developing Countries** — Spring 2023  
+        - **Japanese Politics** — Fall 2023  
+        - **International Organizations** — Fall 2022
 
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: true
     content:
       title: 👉 Build your own academic website like this
       text: |-
@@ -78,7 +101,6 @@ sections:
         url: https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
 ---
