@@ -9,9 +9,10 @@ design:
 
 
 sections:
-  - block: collection
+  - block: research-published papers
     id: papers
     content:
+      username: published papers
       title: Published papers
       filters:
         folders:
@@ -20,8 +21,10 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+
+  - block: research-working papers
     content:
+      username : working papers
       title: Working papers
       text: ""
       filters:
@@ -30,8 +33,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+
+  - block: research-other published
     content:
+      username: other publications
       title: Other publications
       text: ""
       filters:
