@@ -47,4 +47,5 @@ education:
 
 Holly Jansen is a Ph.D. student in the Political Science department at the University of California, San Diego. Her research explores the intersections of gender, representation, and political accountability in the context of climate change. She is particularly interested in how institutional structures and climate shocks influence political behavior and elite decision-making.
 
-The NSF Graduate Research Fellowship Program funds her research and graduate studies. Her research has also been supported by the University of California, San Diego International Institute and Southeast Asian Research Group. She received her M.A. in Political Science from the University of California at San Diego and her B.A. in Government from the University of Texas at Austin.
+The NSF Graduate Research Fellowship Program funds her research and graduate studies. Her research has also been supported by the 
+James R. Roach Endowed Fund in American Foreign Relations, Southeast Asian Research Group, and the University of California, San Diego International Institute. She received her M.A. in Political Science from the University of California at San Diego and her B.A. in Government from the University of Texas at Austin.
