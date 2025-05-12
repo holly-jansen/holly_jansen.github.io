@@ -32,7 +32,7 @@ sections:
       title: Published Papers
       filters:
         folders:
-          - research/published papers
+          - research
         featured_only: true
     design:
       view: article-grid
@@ -43,7 +43,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - research/working papers
+          - research
         exclude_featured: true
     design:
       view: citation
@@ -53,7 +53,7 @@ sections:
       title: Other Publications
       filters:
         folders:
-          - research/other publications
+          - research
         exclude_featured: false
     design:
       view: citation
