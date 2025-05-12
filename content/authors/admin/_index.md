@@ -37,15 +37,13 @@ profiles:
     url: https://orcid.org/0009-0004-1148-7691
 
 education:
-  - area: Ph.D. Political Science
-    institution: University of California, San Diego
   - area: M.A. Political Science
     institution: University of California, San Diego
   - area: B.A. Government
     institution: University of Texas at Austin
 ---
 
-## About Me
+## Welcome!
 
 Holly Jansen is a Ph.D. student in the Political Science department at the University of California, San Diego. Her research explores the intersections of gender, representation, and political accountability in the context of climate change. She is particularly interested in how institutional structures and climate shocks influence political behavior and elite decision-making.
 
