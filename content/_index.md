@@ -27,8 +27,8 @@ sections:
           parallax: false
   - block: collection
     id: research
-    content:
-    title: Published Papers
+    title: "Published Papers"
+    text: ""
     filters:
       folders: ["research"]
       tag: published
@@ -37,7 +37,8 @@ sections:
 
   - block: collection
     content:
-    title: Working Papers
+    title: "Working Papers"
+    text: ""
     filters:
       folders: ["research"]
       tag: working
@@ -45,7 +46,8 @@ sections:
 
   - block: collection
     content:
-    title: Other Publications
+    title: "Other Publications"
+    text: ""
     filters:
       folders: ["research"]
       tag: other
