@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-sections:
+
   - block: markdown
     content:
       title: "Published Papers"
@@ -55,7 +55,7 @@ sections:
         - **Breaking barriers or reinforcing bias? Climate crises and the gender divide in political leadership**  
           Blog post for Kleinman Center (2024).  
           [Read it here](https://kleinmanenergy.upenn.edu/commentary/blog/insights-from-the-the-political-economy-of-climate-change-and-the-environment-2024-mini-conference/)
-sections:
+
   - block: markdown
     content:
       title: "My Approach to Teaching"
@@ -85,7 +85,7 @@ sections:
           Fall 2023
         - **International Organizations**  
           Fall 2022
-          
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
