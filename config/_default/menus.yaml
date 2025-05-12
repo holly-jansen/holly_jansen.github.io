@@ -9,10 +9,10 @@
       weight: 10
     - name: Research
       url: /#research
-      weight: 20
+      weight: 21
     - name: Teaching
       url: /#teaching
-      weight: 30
+      weight: 12
 
 
 

@@ -27,13 +27,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hjansen@ucsd.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/holly_jansen
   - icon: brands/github
     url: https://github.com/holly-jansen
   - icon: brands/linkedin
     url: linkedin.com/in/holly–jansen
-  - icon: academicons/orcid
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=BxvSREgAAAAJ&hl=en
+ 0-- - icon: academicons/orcid
     url: https://orcid.org/0009-0004-1148-7691
 
 education:
