@@ -2,10 +2,6 @@
 title: "Teaching"
 type: page
 layout: page
-menu:
-  main:
-    name: Teaching Assistance
-    weight: 50
 ---
 
 ## My Approach to Teaching
