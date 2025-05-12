@@ -1,45 +1,29 @@
 ---
-title: 'Teaching'
+title: "Teaching"
 date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-
 sections:
-  - block: collection
-    id: papers
+  - block: markdown
     content:
-      title: Teaching philosophy
-      filters:
-        folders:
-          - teaching
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+      title: Teaching Philosophy
+      text: |-
+        My teaching philosophy is grounded in adaptability, intentional design, and care...
 
-  - block: collection
+  - block: markdown
     content:
-      title: Section leader
-      text: ""
-      filters:
-        folders:
-          - teaching
-        exclude_featured: false
-    design:
-      view: citation
+      title: Teaching Experience
+      text: |-
+        ### Section Leader
+        - **Bending/Curve: Climate Change** — Summer 2024
 
-  - block: collection
-    content:
-      title: Teaching assistant
-      text: ""
-      filters:
-        folders:
-          - teaching
-        exclude_featured: false
-    design:
-      view: citation
+        ### Teaching Assistant
+        - **Politics of Multiculturalism** — Spring 2024  
+        - **Comparative Politics: Race & Ethnicity in Africa** — Winter 2023, 2024  
+        - **Corruption in Developing Countries** — Spring 2023  
+        - **Japanese Politics** — Fall 2023  
+        - **International Organizations** — Fall 2022
 ---

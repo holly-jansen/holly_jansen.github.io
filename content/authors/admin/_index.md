@@ -41,6 +41,7 @@ education:
     institution: University of California, San Diego
   - area: B.A. Government
     institution: University of Texas at Austin
+
 ---
 
 ## Welcome!

@@ -1,19 +1,15 @@
 ---
-title: 'Research'
+title: "Research"
 date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-
 sections:
-  - block: research-published papers
-    id: papers
+  - block: collection
     content:
-      username: published papers
-      title: Published papers
+      title: Published Papers
       filters:
         folders:
           - publication
@@ -22,11 +18,9 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: research-working papers
+  - block: collection
     content:
-      username : working papers
-      title: Working papers
-      text: ""
+      title: Working Papers
       filters:
         folders:
           - publication
@@ -34,11 +28,9 @@ sections:
     design:
       view: citation
 
-  - block: research-other published
+  - block: collection
     content:
-      username: other publications
-      title: Other publications
-      text: ""
+      title: Other Publications
       filters:
         folders:
           - publication
