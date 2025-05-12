@@ -2,6 +2,11 @@
 title: "Research"
 type: page
 layout: page
+menu:
+  main:
+    name: Research
+    url: /research/
+    weight: 20
 ---
 
 
