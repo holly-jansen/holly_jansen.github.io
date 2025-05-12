@@ -32,7 +32,7 @@ sections:
       title: Published Papers
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       view: article-grid
@@ -43,8 +43,8 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - research
+        exclude_featured: true
     design:
       view: citation
 
@@ -53,14 +53,14 @@ sections:
       title: Other Publications
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: false
     design:
       view: citation
 
   - block: markdown
     content:
-      title: "My Approach to Teaching"
+      title: "Teaching Philosophy"
       text: |-
 
         My teaching philosophy is grounded in adaptability, intentional design, and care. I view each classroom as a dynamic space shaped by the diverse experiences, identities, and commitments students bring with them—including those navigating higher education as first-generation college students, working professionals, or members of historically excluded communities.
