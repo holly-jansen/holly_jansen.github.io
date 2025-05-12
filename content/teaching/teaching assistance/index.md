@@ -4,7 +4,7 @@ type: page
 layout: page
 menu:
   main:
-    name: Teaching
+    name: Teaching Assistance
     weight: 50
 ---
 
