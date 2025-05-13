@@ -31,6 +31,7 @@ sections:
 
         <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
 
+
   - block: markdown
     id: research
     content:
