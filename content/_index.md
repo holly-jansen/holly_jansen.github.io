@@ -7,26 +7,24 @@ design:
   spacing: "6rem"
 
 sections:
-
   - block: resume-biography-3
     content:
-    username: admin
-    text: ""
-    button:
-      text: Download CV
-      url: /uploads/jansen_cv.pdf
+      username: admin
+      text: ""
+      button:
+        text: Download CV
+        url: /uploads/jansen_cv.pdf
     design:
-    css_class: "text-white text-shadow"
-    background:
-      color: black
-      image:
-        filename: abstract-waves.jpg
-        filters:
-          brightness: 1.0
-        size: cover
-        position: center
-        parallax: false
-
+      css_class: "text-white text-shadow"
+      background:
+        color: black
+        image:
+          filename: abstract-waves.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     id: research
@@ -35,7 +33,7 @@ sections:
       text: |-
         ### Published Papers
 
-        **TThe effects of gender stereotypes on citizens’ perceptions of corruption: evidence from a conjoint survey experiment in Malaysia**  
+        **The effects of gender stereotypes on citizens’ perceptions of corruption: evidence from a conjoint survey experiment in Malaysia**  
         _Handbook on Gender and Corruption in Democracies (2024)_  
         [Read it here](https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-31.xml?tab_body=abstract-copy1)  
         <details>
@@ -61,7 +59,6 @@ sections:
         **Breaking barriers or reinforcing bias? Climate crises and the gender divide in political leadership**  
         _Kleinman Center Blog (2024)_  
         [Read it here](https://kleinmanenergy.upenn.edu/commentary/blog/insights-from-the-the-political-economy-of-climate-change-and-the-environment-2024-mini-conference/)
-
 
   - block: markdown
     id: teaching
@@ -108,3 +105,4 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+
