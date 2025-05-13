@@ -7,25 +7,25 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      username: admin
-      text: ""
-      button:
-        text: Download CV
-        url: uploads/jansen_cv.pdf
-  
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          filename: website_background.jpeg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+- block: resume-biography-3
+  content:
+    username: admin
+    text: ""
+    button:
+      text: Download CV
+      url: /uploads/jansen_cv.pdf
+  design:
+    css_class: "hero-gradient text-white"
+    background:
+      color: black
+      image:
+        filename: abstract-waves.jpg
+        filters:
+          brightness: 1.0
+        size: cover
+        position: center
+        parallax: false
+
 
   - block: markdown
     id: research
