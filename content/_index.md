@@ -14,7 +14,7 @@ sections:
         text: Download CV
         url: /uploads/jansen_cv.pdf
     design:
-      css_class: text-white text-shadow
+      css_class: text-black text-shadow
       background:
         color: 
         image:
