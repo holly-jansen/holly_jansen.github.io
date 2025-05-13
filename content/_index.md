@@ -13,7 +13,8 @@ sections:
       text: ""
       button:
         text: Download CV
-        url: static/uploads/jansen_cv.pdf
+        url: uploads/jansen_cv.pdf
+  
     design:
       css_class: dark
       background:
