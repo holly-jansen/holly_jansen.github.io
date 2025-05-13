@@ -8,9 +8,9 @@ menu:
     weight: 50
 ---
 
-You can download my CV [here](/uploads/jansen_cv.pdf).
+You can download my CV [here](url: /uploads/jansen_cv.pdf).
 
-<embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="url: /uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
 
 
 
