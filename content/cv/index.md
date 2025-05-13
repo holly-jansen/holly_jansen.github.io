@@ -5,6 +5,9 @@ type: landing
 
 design:
   spacing: '5rem'
+
+tags: 
+  - cv
 ---
 
 [Download CV](uploads/jansen_cv.pdf)
