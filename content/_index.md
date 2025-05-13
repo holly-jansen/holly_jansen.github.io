@@ -19,7 +19,7 @@ sections:
       background:
         color: black
         image:
-          filename: abstract-waves.jpg
+          filename: website_background.jpeg
           filters:
             brightness: 1.0
           size: cover
