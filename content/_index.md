@@ -7,28 +7,27 @@ design:
   spacing: "6rem"
 
 sections:
-- block: markdown
-  content:
-    title: ""
-    text: |-
-      <div style="color: white; text-shadow: 1px 1px 2px black; text-align: center; padding-top: 8rem; padding-bottom: 8rem;">
-        <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Holly E. Jansen</h1>
-        <h2 style="font-size: 1.5rem; margin-bottom: 1.5rem;">Ph.D. Candidate, Political Science</h2>
-        <a href="/uploads/jansen_cv.pdf" style="color: white; background-color: #444; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none; text-shadow: 1px 1px 2px black;">Download CV</a>
-      </div>
-  design:
-    background:
-      color: black
-      image:
-        filename: website_background.jpeg
-        filters:
-          brightness: 1.0
-        size: cover
-        position: center
-        parallax: false
+  - block: markdown
+    content:
+      title: ""
+      text: |-
+        <div style="color: white; text-shadow: 1px 1px 2px black; text-align: center; padding-top: 8rem; padding-bottom: 8rem;">
+          <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Holly E. Jansen</h1>
+          <h2 style="font-size: 1.5rem; margin-bottom: 1.5rem;">Ph.D. Candidate, Political Science</h2>
+          <a href="/uploads/jansen_cv.pdf" style="color: white; background-color: #444; padding: 0.5rem 1rem; border-radius: 5px; text-decoration: none; text-shadow: 1px 1px 2px black;">Download CV</a>
+        </div>
+    design:
+      background:
+        color: black
+        image:
+          filename: website_background.jpeg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
-
-- block: markdown
+  - block: markdown
     id: research
     content:
       title: "Research"
