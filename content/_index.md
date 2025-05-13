@@ -11,7 +11,7 @@ sections:
     content:
       username: admin
     design:
-      css_class: "text-white text-shadow"
+      css_class:
       background:
         color: 
         image:
