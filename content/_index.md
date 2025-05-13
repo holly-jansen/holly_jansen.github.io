@@ -25,11 +25,12 @@ sections:
   - block: markdown
     id: cv
     content:
-      title: "Curriculum Vitae"
-      text: |-
-        [Download CV](/uploads/jansen_cv.pdf)
+    title: "Curriculum Vitae"
+    text: |-
+      You can download my CV [here](/uploads/jansen_cv.pdf).
 
-        <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
+      <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
+
 
 
   - block: markdown
@@ -40,7 +41,7 @@ sections:
         ### Published Papers
 
         **The effects of gender stereotypes on citizens’ perceptions of corruption: evidence from a conjoint survey experiment in Malaysia**  
-        _Handbook on Gender and Corruption in Democracies (2024)_  
+        _Handbookk on Gender and Corruption in Democracies (2024)_  
         [Read it here](https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-31.xml?tab_body=abstract-copy1)  
         <details>
         <summary><strong>View Abstract</strong></summary>
