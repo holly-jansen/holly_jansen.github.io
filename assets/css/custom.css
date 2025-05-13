@@ -1,5 +1,4 @@
-/* Adds a soft dark shadow behind text */
 .text-shadow {
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  text-shadow: 1px 1px 2px black;
 }
-}
+

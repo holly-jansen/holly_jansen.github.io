@@ -26,6 +26,8 @@ sections:
           position: center
           parallax: false
 
+
+
   - block: markdown
     id: research
     content:
