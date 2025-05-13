@@ -13,7 +13,7 @@ sections:
     design:
       css_class: "text-white text-shadow"
       background:
-        color: black
+        color: 
         image:
           filename: website_background.jpeg
           filters:
