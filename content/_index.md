@@ -10,9 +10,6 @@ sections:
   - block: resume-biography-3
     content:
       username: admin
-      button:
-        text: Download CV
-        url: /uploads/jansen_cv.pdf
     design:
       css_class: "text-white text-shadow"
       background:
@@ -24,6 +21,15 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: markdown
+    id: cv
+    content:
+      title: "Curriculum Vitae"
+      text: |-
+        You can download my CV [here](/uploads/jansen_cv.pdf).
+
+        <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
 
   - block: markdown
     id: research
