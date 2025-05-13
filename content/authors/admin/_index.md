@@ -50,3 +50,5 @@ Holly Jansen is a Ph.D. student in the Political Science department at the Unive
 
 The NSF Graduate Research Fellowship Program funds her research and graduate studies. Her research has also been supported by the 
 James R. Roach Endowed Fund in American Foreign Relations, Southeast Asian Research Group, and the University of California, San Diego International Institute. She received her M.A. in Political Science from the University of California at San Diego and her B.A. in Government from the University of Texas at Austin.
+
+As a retired professional swimmer, I enjoy swimming during my free time. I also enjoy watching crime and/or medical dramas as well as listening to true-crime podcasts. 
