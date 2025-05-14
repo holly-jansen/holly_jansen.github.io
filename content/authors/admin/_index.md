@@ -56,3 +56,10 @@ education:
 
 </div>
 
+<h2>Education</h2>
+        <ul>
+          <li><strong>M.A. Political Science</strong>, University of California, San Diego</li>
+          <li><strong>B.A. Government</strong>, University of Texas at Austin</li>
+        </ul>
+      </div>
+
