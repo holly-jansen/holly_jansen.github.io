@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: emerald
+  favicon:
+    path: "/favicon/favicon.ico"
 
 # SEO
 marketing:
