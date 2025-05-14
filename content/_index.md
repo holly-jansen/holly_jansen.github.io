@@ -28,7 +28,9 @@ sections:
       title: "Curriculum Vitae"
       text: |-
 
-        <iframe src="/uploads/jansen_cv.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+       <object data="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="1200px">
+        <p>Your browser does not support PDFs. <a href="/uploads/jansen_cv.pdf">Download the PDF</a>.</p>
+        </object>
 
         You can download my CV [here](/uploads/jansen_cv.pdf).
 
