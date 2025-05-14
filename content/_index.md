@@ -11,9 +11,9 @@ sections:
     content:
       username: admin
     design:
-      css_class:
+      css_class:  "text-black"
       background:
-        color: "text-black"
+        color:
         image: 
           filename: website_background.jpeg
           filters:
