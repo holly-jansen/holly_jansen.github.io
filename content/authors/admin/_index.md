@@ -34,13 +34,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=BxvSREgAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0009-0004-1148-7691
-
-education:
-  - area: M.A. Political Science
-    institution: University of California, San Diego
-  - area: B.A. Government
-    institution: University of Texas at Austin  
+    url: https://orcid.org/0009-0004-1148-7691 
 
 ---
 
@@ -53,13 +47,6 @@ education:
   <p>The NSF Graduate Research Fellowship Program funds her research and graduate studies. Her research has also been supported by the James R. Roach Endowed Fund in American Foreign Relations, Southeast Asian Research Group, and the University of California, San Diego International Institute. She received her M.A. in Political Science from the University of California at San Diego and her B.A. in Government from the University of Texas at Austin.</p>
 
   <p>As a retired professional swimmer, I enjoy swimming during my free time. I also enjoy watching crime and/or medical dramas as well as listening to true-crime podcasts.</p>
-
-
-<h2>Education</h2>
-<ul>
-  <li>{{< icon name="graduation-cap" pack="fas" >}} <strong>M.A. Political Science</strong>, University of California, San Diego</li>
-  <li>{{< icon name="graduation-cap" pack="fas" >}} <strong>B.A. Government</strong>, University of Texas at Austin</li>
-</ul>
 
 
 </div>
