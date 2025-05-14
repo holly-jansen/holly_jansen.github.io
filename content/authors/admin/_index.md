@@ -30,7 +30,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/holly-jansen
   - icon: brands/linkedin
-    url: linkedin.com/in/holly–jansen
+    url: https://www.linkedin.com/in/holly--jansen
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=BxvSREgAAAAJ&hl=en
   - icon: academicons/orcid
