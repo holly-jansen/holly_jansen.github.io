@@ -55,10 +55,11 @@ education:
   <p>As a retired professional swimmer, I enjoy swimming during my free time. I also enjoy watching crime and/or medical dramas as well as listening to true-crime podcasts.</p>
 
 
-  <h2>Education</h2>
-    <ul>
-      <li><strong>M.A. Political Science</strong>, University of California, San Diego</li>
-      <li><strong>B.A. Government</strong>, University of Texas at Austin</li>
-     </ul>
+<h2>Education</h2>
+<ul>
+  <li><i class="fas fa-graduation-cap"></i> <strong>M.A. Political Science</strong>, University of California, San Diego</li>
+  <li><i class="fas fa-graduation-cap"></i> <strong>B.A. Government</strong>, University of Texas at Austin</li>
+</ul>
+
 </div>
 
