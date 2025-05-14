@@ -29,7 +29,10 @@ sections:
       text: |-
         You can download my CV [here](/uploads/jansen_cv.pdf).
 
-        <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="800px" />
+        <div style="height: 100vh; overflow: auto;">
+         <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="100%" />
+        </div>
+
 
   - block: markdown
     id: research
