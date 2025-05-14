@@ -63,5 +63,7 @@ features:
     enable: false
 
 style:
-  css: ["css/custom.css"]
+  css:
+    - css/custom.css
+
 
