@@ -57,9 +57,10 @@ education:
 
 <h2>Education</h2>
 <ul>
-  <li><i class="fas fa-graduation-cap"></i> <strong>M.A. Political Science</strong>, University of California, San Diego</li>
-  <li><i class="fas fa-graduation-cap"></i> <strong>B.A. Government</strong>, University of Texas at Austin</li>
+  <li>{{< icon name="graduation-cap" pack="fas" >}} <strong>M.A. Political Science</strong>, University of California, San Diego</li>
+  <li>{{< icon name="graduation-cap" pack="fas" >}} <strong>B.A. Government</strong>, University of Texas at Austin</li>
 </ul>
+
 
 </div>
 
