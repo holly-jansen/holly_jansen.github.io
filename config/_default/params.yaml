@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: amber
+  color: 
   font: "serif" 
   favicon:
     path: "/favicon/favicon.ico"
