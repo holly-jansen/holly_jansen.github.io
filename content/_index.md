@@ -28,7 +28,16 @@ sections:
       title: "Curriculum Vitae"
       text: |-
 
-       <iframe src="/pdfjs/web/viewer.html?file=jansen_cv.pdf" width="100%" height="900px" style="border: none;"></iframe>
+        <div style="width: 100%; height: 100vh; max-height: 90vh; overflow: hidden; box-shadow: 0 0 12px rgba(0,0,0,0.3); border-radius: 8px;">
+          <iframe 
+            src="/pdfjs/web/viewer.html?file=jansen_cv.pdf" 
+            width="100%" 
+            height="100%" 
+            style="border: none;"
+            loading="lazy">
+          </iframe>
+        </div>
+
 
 
         You can download my CV [here](/uploads/jansen_cv.pdf).
