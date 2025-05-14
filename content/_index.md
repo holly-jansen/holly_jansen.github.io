@@ -27,11 +27,10 @@ sections:
     content:
       title: "Curriculum Vitae"
       text: |-
-        You can download my CV [here](/uploads/jansen_cv.pdf).
 
-        <div style="height: 100vh; overflow: auto;">
-         <embed src="/uploads/jansen_cv.pdf" type="application/pdf" width="100%" height="100%" />
-        </div>
+        <iframe src="/uploads/jansen_cv.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+
+        You can download my CV [here](/uploads/jansen_cv.pdf).
 
 
   - block: markdown
