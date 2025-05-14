@@ -13,8 +13,8 @@ sections:
     design:
       css_class:
       background:
-        color: 
-        image:
+        color: "text-black"
+        image: 
           filename: website_background.jpeg
           filters:
             brightness: 1.0
